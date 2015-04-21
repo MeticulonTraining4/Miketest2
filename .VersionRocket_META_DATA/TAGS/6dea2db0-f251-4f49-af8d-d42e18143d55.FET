@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FolderEntryTags xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>6dea2db0-f251-4f49-af8d-d42e18143d55</Id>
+  <FolderEntry>
+    <EntryType>File</EntryType>
+    <DisplayName>Miketest.docx</DisplayName>
+    <PathInsideRepo />
+    <RepoRootFolder>C:\Users\Admin\Documents\VersionRocket Repositories\Miketest2</RepoRootFolder>
+    <Deleted>false</Deleted>
+    <Contents />
+    <FolderEntryView>Thumbnail</FolderEntryView>
+  </FolderEntry>
+  <Tags>
+    <guid>6bfbebb9-6710-41e5-a537-7ddd8d2d1a35</guid>
+  </Tags>
+</FolderEntryTags>
